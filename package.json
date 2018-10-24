@@ -1,6 +1,6 @@
 {
   "name": "dexit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Declarative Extensible Framework for Integration Testing",
   "main": "dist/src/index.js",
   "typings": "dist/src/index",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jirihybek/dexit.git"
+    "url": "git+https://github.com/dexit-framework/dexit.git"
   },
   "keywords": [
     "declarative",
@@ -39,9 +39,9 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/jirihybek/dexit/issues"
+    "url": "https://github.com/dexit-framework/dexit/issues"
   },
-  "homepage": "https://github.com/jirihybek/dexit#readme",
+  "homepage": "https://github.com/dexit-framework/dexit#readme",
   "devDependencies": {
     "@types/argparse": "^1.0.35",
     "@types/jest": "^23.3.5",
